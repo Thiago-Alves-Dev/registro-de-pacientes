@@ -109,7 +109,7 @@ while True:
         cpf = input("Digite o CPF do paciente: ")
         rg = input("Digite o RG do paciente: ")
         tel = input('Digite o número de telefone: ')
-        data_nasc = input("Digite a data de nascimento: ")
+        data_nasc = input("Digite a data de nascimento (ex: 00/00/0000): ")
         idade = calcular_idade(data_nasc)
         clear_terminal()
 
@@ -120,7 +120,7 @@ Registro geral n° {rg}
     email: {email}
     cpf: {cpf}
     telefone: {tel}
-    data de nascimento (ex: 00/00/0000): {data_nasc}
+    data de nascimento: {data_nasc}
     idade: {idade} anos \n
 """
 
