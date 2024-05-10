@@ -1,0 +1,23 @@
+(Exemplos de registro)
+
+LISTA DE PACIENTES DO GRUPO DE RISCO
+
+Registro geral n° 0000003
+
+    nome do paciente: Zé Maria
+    email: @hotmail.com
+    cpf: 000.000.000-00
+    telefone: (00)00000-0000
+    data de nascimento: 08/07/1955
+    idade: 68 anos 
+
+
+Registro geral n° 0000004
+
+    nome do paciente: Ana Rosa
+    email: @gmail.com
+    cpf: 000.000.000-00
+    telefone: (00)00000-0000
+    data de nascimento (ex: 00/00/0000): 08/06/1949
+    idade: 74 anos 
+

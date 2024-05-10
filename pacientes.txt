@@ -1,0 +1,23 @@
+(Exemplos de registro)
+
+LISTA DE PACIENTES
+
+Registro geral n° 0000001
+
+    nome do paciente: João da Silva
+    email: @gmail.com
+    cpf: 000.000.000-00
+    telefone: (00)00000-0000
+    data de nascimento: 08/06/1978
+    idade: 45 anos 
+
+
+Registro geral n° 0000002
+
+    nome do paciente: Pedro Alves
+    email: @hotmail.com
+    cpf: 000.000.000-00
+    telefone: (00)00000-0000
+    data de nascimento: 08/06/1998
+    idade: 25 anos 
+
