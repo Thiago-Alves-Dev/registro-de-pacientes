@@ -18,6 +18,6 @@ Registro geral n° 0000004
     email: @gmail.com
     cpf: 000.000.000-00
     telefone: (00)00000-0000
-    data de nascimento (ex: 00/00/0000): 08/06/1949
+    data de nascimento: 08/06/1949
     idade: 74 anos 
 
